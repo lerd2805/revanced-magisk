@@ -18,6 +18,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 [Music]
 build-mode = "both"
 arch = "arm64-v8a"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
@@ -35,12 +36,12 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
 [Instagram]
 arch = "arm64-v8a"
-version = "378.0.0.52.68"
+version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Facebook]
 arch = "arm64-v8a"
-version = "490.0.0.63.82"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 
 # https://github.com/j-hc/revanced-magisk-module/issues/554
