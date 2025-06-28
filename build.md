@@ -1,3 +1,5 @@
+Facebook: 490.0.0.63.82  
+GooglePhotos: 7.35.0.774533729  
 Instagram: 378.0.0.52.68  
 Music: 8.05.51  
 Spotify: 9.0.56.106  
