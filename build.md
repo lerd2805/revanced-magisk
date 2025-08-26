@@ -1,7 +1,8 @@
 Facebook: 490.0.0.63.82  
-GooglePhotos: 7.41.0.795526889  
+GooglePhotos: 7.42.0.797402755  
+Instagram: 378.0.0.52.68  
 Music: 8.31.51  
-Spotify: 9.0.48.380  
+Spotify: 9.0.72.967  
 Twitch: 16.9.1  
 YouTube: 20.13.41  
 
