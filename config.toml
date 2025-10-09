@@ -43,7 +43,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 [Instagram]
 build-mode = "apk"
 version = "auto"
-archive-dlurl = "https://archive.org/details/com.instagram.android_379.1.0.43.80-arm64-v8a"
+archive-dlurl = "https://archive.org/download/com.instagram.android_379.1.0.43.80-arm64-v8a"
 
 [Facebook]
 build-mode = "apk"
