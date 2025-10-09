@@ -39,13 +39,13 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 [Instagram]
 build-mode = "apk"
 version = "379.1.0.43.80"
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+#apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
 [Facebook]
 build-mode = "apk"
 version = "490.0.0.63.82"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
 # https://github.com/j-hc/revanced-magisk-module/issues/554
